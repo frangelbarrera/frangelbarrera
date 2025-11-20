@@ -1,4 +1,4 @@
-<video src="41263-429379223.mp4" controls width="100%"></video>
+<img src="https://via.placeholder.com/800x400/000000/FFFFFF?text=Coding+on+Laptop" alt="Coding on Laptop" width="100%">
 
 # Frangel Raúl Crespo Barrera
 
@@ -98,8 +98,8 @@ Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL 
 
 ## Contact
 
-- **Email:** fr6801850@gmail.com
+- **Email:** frangelrcbarrera@gmail.com
 - **GitHub:** [frangelbarrera](https://github.com/frangelbarrera)
-- **LinkedIn:** [frangel-crespo](https://linkedin.com/in/frangel-crespo)
+
 
 Available for freelance projects and full-time opportunities. Open to remote work worldwide.
