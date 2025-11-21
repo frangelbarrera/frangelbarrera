@@ -52,16 +52,6 @@ Developed automation scripts and tools for log analysis and threat simulation. C
 
 ## Featured Projects
 
-### DevCollab - Real-Time Collaboration Platform
-Full-stack platform for developers with collaborative coding and project management.  
-**Technologies:** Next.js, TypeScript, Prisma, PostgreSQL, Socket.io  
-[GitHub](https://github.com/frangelbarrera/devcollab)
-
-### TaskFlow - Cross-Platform Productivity App
-Mobile app for task management with cloud sync and offline support.  
-**Technologies:** Flutter, Dart, Firebase, Node.js  
-[GitHub](https://github.com/frangelbarrera/taskflow) | [Google Play](https://play.google.com/store/apps/developer?id=Frangel+Crespo)
-
 ### PhishGuard - Phishing Detection System
 Deep learning model for URL classification using CNN and LSTM.  
 **Technologies:** Python, TensorFlow, Keras, Flask, React  
@@ -103,6 +93,7 @@ Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL 
 
 
 Available for freelance projects and full-time opportunities. Open to remote work worldwide.
+
 
 
 
