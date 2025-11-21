@@ -1,4 +1,4 @@
-<img src="28320-369325356.gif" alt="Coding on Laptop" width="100%">
+<img src="28320-369325356-ezgif.com-video-to-gif-converter.gif" alt="Coding on Laptop" width="100%">
 
 # Frangel Raúl Crespo Barrera
 
@@ -103,6 +103,7 @@ Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL 
 
 
 Available for freelance projects and full-time opportunities. Open to remote work worldwide.
+
 
 
 
