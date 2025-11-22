@@ -7,7 +7,7 @@
 
 **Full-Stack Software Engineer | Mobile Developer | Cybersecurity Specialist**
 
-[![Email](https://img.shields.io/badge/Email-frangelrcbarrera@gmail.com.com-blue)](mailto:frangelrcbarrera@gmail.com)
+[![Email](https://img.shields.io/badge/Email-frangelrcbarrera@gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-frangelbarrera-black)](https://github.com/frangelbarrera)
 
 
@@ -96,6 +96,7 @@ Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL 
 
 
 Available for freelance projects and full-time opportunities. Open to remote work worldwide.
+
 
 
 
