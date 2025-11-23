@@ -52,6 +52,13 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=tensorflow&logoColor=white) (2 years)
 ![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat&logo=tensorflow&logoColor=white) (2 years)
 
+### Additional Skills
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00ADD8?style=flat&logo=cisco&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF6B6B?style=flat&logo=adobe&logoColor=white)
+
 ## Professional Experience
 
 ### Cybersecurity Specialist - Defense and National Security Sector
@@ -141,6 +148,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
