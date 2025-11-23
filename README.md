@@ -79,8 +79,8 @@ An internal tool for optimizing health tracking using AI, featuring personalized
 **Key Features:** AI-generated personalized plans, real-time progress tracking, conversational AI coach, educational resources.
 
 **Screenshots:**
-<img src="assets/1.jpg" alt="VitalizeAI Dashboard" width="20%"> <img src="assets/2.jpg" alt="Progress Tracking" width="20%"> <img src="assets/3.jpg" alt="AI Coach" width="20%">
-<img src="assets/4.jpg" alt="Nutrition Plans" width="20%"> <img src="assets/5.jpg" alt="Educational Resources" width="20%"> <img src="assets/6.jpg" alt="User Interface" width="20%">
+<img src="assets/1.jpg" alt="VitalizeAI Dashboard" width="30%"> <img src="assets/2.jpg" alt="Progress Tracking" width="30%"> <img src="assets/3.jpg" alt="AI Coach" width="30%">
+<img src="assets/4.jpg" alt="Nutrition Plans" width="30%"> <img src="assets/5.jpg" alt="Educational Resources" width="30%"> <img src="assets/6.jpg" alt="User Interface" width="30%">
 
 ### AssetWise CMDB - Asset and Risk Management System
 An internal tool for managing IT assets and risks, enhancing operational efficiency and compliance.
@@ -89,7 +89,7 @@ An internal tool for managing IT assets and risks, enhancing operational efficie
 **Key Features:** Real-time metrics dashboard, intelligent asset inventory, automated risk reports, audit trails.
 
 **Screenshots:**
-<img src="assets/7.jpg" alt="Dashboard" width="20%"> <img src="assets/8.jpg" alt="Asset Inventory" width="20%"> <img src="assets/9.jpg" alt="Risk Reports" width="20%">
+<img src="assets/7.jpg" alt="Dashboard" width="30%"> <img src="assets/8.jpg" alt="Asset Inventory" width="30%"> <img src="assets/9.jpg" alt="Risk Reports" width="30%">
 
 ### Mobile Shopping App - Flutter E-commerce Demo
 A cross-platform shopping app demonstrating Flutter expertise, connected to FakeStoreAPI.
@@ -142,6 +142,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
