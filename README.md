@@ -9,7 +9,6 @@
 
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-frangelbarrera-black)](https://github.com/frangelbarrera)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-frangel--crespo-blue)](https://linkedin.com/in/frangel-crespo)
 
 ## Passion for Technology
 
@@ -142,6 +141,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
