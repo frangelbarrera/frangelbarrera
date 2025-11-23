@@ -64,7 +64,7 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ### Cybersecurity Specialist - Defense and National Security Sector
 *3 months*  
 Conducted threat and vulnerability analysis for critical infrastructures, deployed perimeter security, developed forensic analysis tools, and contributed to Threat Intelligence and incident response projects.  
-**Key Achievements:** Strengthened security posture for a network with 200+ industrial machines and 100+ workstations; improved investigative efficiency by 65% through automated investigations and AI integration.
+**Key Achievements:** Strengthened security posture for a network with 200+ industrial machines and 100+ workstations; increased investigative efficiency by 65% through automated data collection and correlation, reducing repetitive tasks and enabling focus on high-value analysis.
 
 ### Full-Stack Development Engineer - SCADA Control System for Industrial Automation
 *January 2024 – Present*  
@@ -74,7 +74,7 @@ Designed relational database architecture using Prisma ORM and Node.js/TypeScrip
 ### Security Automation Engineer - Offensive and Operational Cybersecurity (OT/ICS)
 *January 2024 – December 2024*  
 Developed 5+ security tools in Python for automation and testing. Created StyxLoaderX (C++/Windows API) for advanced threat simulation. Integrated with Elastic Stack for SIEM.  
-**Impact:** 70% reduction in log analysis time through automation.
+**Impact:** Achieved 70% reduction in log analysis time via serverless pipelines with Elastic Stack and Python, processing 4GB+ daily logs with <500ms latency for anomaly detection. Developed StyxLoaderX, a modular C++/Windows API framework for advanced EDR evasion using dynamic syscalls, AES encryption, and Process Hollowing.
 
 ## Featured Projects
 
@@ -88,6 +88,8 @@ An internal tool for optimizing health tracking using AI, featuring personalized
 <img src="assets/1.jpg" alt="VitalizeAI Dashboard" width="30%"> <img src="assets/2.jpg" alt="Progress Tracking" width="30%"> <img src="assets/3.jpg" alt="AI Coach" width="30%">
 <img src="assets/4.jpg" alt="Nutrition Plans" width="30%"> <img src="assets/5.jpg" alt="Educational Resources" width="30%"> <img src="assets/6.jpg" alt="User Interface" width="30%">
 
+*Note: Screenshots use simulated data to protect sensitive company information.*
+
 ### AssetWise CMDB - Asset and Risk Management System
 An internal tool for managing IT assets and risks, enhancing operational efficiency and compliance.
 
@@ -97,6 +99,8 @@ An internal tool for managing IT assets and risks, enhancing operational efficie
 **Screenshots:**
 <img src="assets/7.jpg" alt="Dashboard" width="30%"> <img src="assets/8.jpg" alt="Asset Inventory" width="30%"> <img src="assets/9.jpg" alt="Risk Reports" width="30%">
 
+*Note: Screenshots use simulated data to protect sensitive company information.*
+
 ### Mobile Shopping App - Flutter E-commerce Demo
 A cross-platform shopping app demonstrating Flutter expertise, connected to FakeStoreAPI.
 
@@ -104,13 +108,14 @@ A cross-platform shopping app demonstrating Flutter expertise, connected to Fake
 **Key Features:** Interactive catalog, shopping cart, real-time pricing, multilingual support.
 
 **Screenshots:**
-<img src="assets/10.png" alt="Catalog" width="30%"> <img src="assets/11.png" alt="Product Details" width="30%"> <img src="assets/12.png" alt="Cart" width="30%"> <img src="assets/13.png" alt="Checkout" width="30%">
+<img src="assets/10.png" alt="Catalog" width="20%"> <img src="assets/11.png" alt="Product Details" width="20%"> <img src="assets/12.png" alt="Cart" width="20%"> <img src="assets/13.png" alt="Checkout" width="20%">
 
 ### PhishGuard - AI-Powered Phishing Detection
 Thesis project applying CNN and LSTM for malicious URL classification.
 
-**Technologies:** Python, TensorFlow, Keras, Flask, React  
-**Impact:** 96.8% accuracy in detecting phishing URLs.
+**Technologies:** Python, TensorFlow, Keras, Flask, React
+**Impact:** Achieved 90.46% accuracy in URL classification using hybrid CNN-LSTM on Umbrella dataset (11,431 samples), analyzing 55 features for lexical, anomalous content, and security attributes.
+[GitHub: PhishGuard-CNN-LSTM](https://github.com/frangelbarrera/PhishGuard-CNN-LSTM)
 
 ### AegisTrace - Threat Intelligence Platform
 Platform for managing and analyzing Indicators of Compromise (IoCs).
@@ -148,6 +153,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
