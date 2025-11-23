@@ -110,12 +110,12 @@ A cross-platform shopping app demonstrating Flutter expertise, connected to Fake
 **Screenshots:**
 <img src="assets/10.png" alt="Catalog" width="20%"> <img src="assets/11.png" alt="Product Details" width="20%"> <img src="assets/12.png" alt="Cart" width="20%"> <img src="assets/13.png" alt="Checkout" width="20%">
 
-### PhishGuard - AI-Powered Phishing Detection
+### AI-Powered Phishing Detection
 Thesis project applying CNN and LSTM for malicious URL classification.
 
 **Technologies:** Python, TensorFlow, Keras, Flask, React
 **Impact:** Achieved 90.46% accuracy in URL classification using hybrid CNN-LSTM on Umbrella dataset (11,431 samples), analyzing 55 features for lexical, anomalous content, and security attributes.
-[GitHub: PhishGuard-CNN-LSTM](https://github.com/frangelbarrera/PhishGuard-CNN-LSTM)
+[GitHub: Phishing Detection-CNN-LSTM](https://github.com/frangelbarrera/phishing-detection-rnn-cnn)
 
 ### AegisTrace - Threat Intelligence Platform
 Platform for managing and analyzing Indicators of Compromise (IoCs).
@@ -153,6 +153,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
