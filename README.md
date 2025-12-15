@@ -1,3 +1,5 @@
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frangelbarrera?igsh=MTFkcTFvdG1nNWlkZQ==)
+
 <p align="center">
   <img src="assets/1.gif" alt="Demo" width="600">
 </p>
@@ -153,6 +155,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
