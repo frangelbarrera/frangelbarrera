@@ -5,6 +5,10 @@
 
 # Frangel Raúl Crespo Barrera
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frangelbarrera&label=Profile%20views&color=green&style=flat" alt="Profile views" />
+</p>
+
 **Cybersecurity Engineer & Full-Stack Developer**
 
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
@@ -153,6 +157,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 ---
 
 *This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
