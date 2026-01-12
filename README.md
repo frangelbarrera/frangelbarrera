@@ -59,74 +59,6 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF6B6B?style=flat&logo=adobe&logoColor=white) 
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-4285F4?style=flat&logo=google&logoColor=white) 
 
-## Professional Experience
-
-### Cybersecurity Specialist - Defense and National Security Sector
-*3 months*  
-Conducted threat and vulnerability analysis for critical infrastructures, deployed perimeter security, developed forensic analysis tools, and contributed to Threat Intelligence and incident response projects.  
-**Key Achievements:** Strengthened security posture for a network with 200+ industrial machines and 100+ workstations; increased investigative efficiency by 65% through automated data collection and correlation, reducing repetitive tasks and enabling focus on high-value analysis.
-
-### Full-Stack Development Engineer - SCADA Control System for Industrial Automation
-*January 2024 – Present*  
-Designed relational database architecture using Prisma ORM and Node.js/TypeScript for machinery management. Developed centralized SCADA system for real-time monitoring of 200 machines across 12 plants, integrating industrial protocols (Modbus/TCP, S7Comm) and applying ICS/OT cybersecurity.  
-**Impact:** 15% reduction in machinery downtime through early fault detection.
-
-### Security Automation Engineer - Offensive and Operational Cybersecurity (OT/ICS)
-*January 2024 – December 2024*  
-Developed 5+ security tools in Python for automation and testing. Created StyxLoaderX (C++/Windows API) for advanced threat simulation. Integrated with Elastic Stack for SIEM.  
-**Impact:** Achieved 70% reduction in log analysis time via serverless pipelines with Elastic Stack and Python, processing 4GB+ daily logs with <500ms latency for anomaly detection. Developed StyxLoaderX, a modular C++/Windows API framework for advanced EDR evasion using dynamic syscalls, AES encryption, and Process Hollowing.
-
-## Featured Projects
-
-### VitalizeAI - Health & Wellness Optimization Tool
-An internal tool for optimizing health tracking using AI, featuring personalized training and nutrition plans.
-
-**Technologies:** Node.js, Express.js, AI APIs, NoSQL Database, Dynamic Rendering  
-**Key Features:** AI-generated personalized plans, real-time progress tracking, conversational AI coach, educational resources.
-
-**Screenshots:**
-<img src="assets/1.jpg" alt="VitalizeAI Dashboard" width="30%"> <img src="assets/2.jpg" alt="Progress Tracking" width="30%"> <img src="assets/3.jpg" alt="AI Coach" width="30%">
-<img src="assets/4.jpg" alt="Nutrition Plans" width="30%"> <img src="assets/5.jpg" alt="Educational Resources" width="30%"> <img src="assets/6.jpg" alt="User Interface" width="30%">
-
-*Note: Screenshots use simulated data to protect sensitive company information.*
-
-### AssetWise CMDB - Asset and Risk Management System
-An internal tool for managing IT assets and risks, enhancing operational efficiency and compliance.
-
-**Technologies:** Node.js, Express.js, NoSQL Database, AI Integration, REST APIs, Dynamic Rendering  
-**Key Features:** Real-time metrics dashboard, intelligent asset inventory, automated risk reports, audit trails.
-
-**Screenshots:**
-<img src="assets/7.jpg" alt="Dashboard" width="30%"> <img src="assets/8.jpg" alt="Asset Inventory" width="30%"> <img src="assets/9.jpg" alt="Risk Reports" width="30%">
-
-*Note: Screenshots use simulated data to protect sensitive company information.*
-
-### Mobile Shopping App - Flutter E-commerce Demo
-A cross-platform shopping app demonstrating Flutter expertise, connected to FakeStoreAPI.
-
-**Technologies:** Flutter, Dart, REST APIs, Material Design, Reactive State Management  
-**Key Features:** Interactive catalog, shopping cart, real-time pricing, multilingual support.
-
-**Screenshots:**
-<img src="assets/10.png" alt="Catalog" width="20%"> <img src="assets/11.png" alt="Product Details" width="20%"> <img src="assets/12.png" alt="Cart" width="20%"> <img src="assets/13.png" alt="Checkout" width="20%">
-
-### AI-Powered Phishing Detection
-Thesis project applying CNN and LSTM for malicious URL classification.
-
-**Technologies:** Python, TensorFlow, Keras, Flask, React
-**Impact:** Achieved 90.46% accuracy in URL classification using hybrid CNN-LSTM on Umbrella dataset (11,431 samples), analyzing 55 features for lexical, anomalous content, and security attributes.
-[GitHub: Phishing Detection-CNN-LSTM](https://github.com/frangelbarrera/phishing-detection-rnn-cnn)
-
-### AegisTrace - Threat Intelligence Platform
-Platform for managing and analyzing Indicators of Compromise (IoCs).
-
-**Technologies:** Python, FastAPI, PostgreSQL, React, Docker  
-
-### Cloud-Misconfig-Scanner - Multi-Cloud Security Scanner
-CLI tool for detecting security misconfigurations in AWS, Azure, GCP.
-
-**Technologies:** Python, Boto3, Azure SDK, GCP Client Libraries  
-
 ## Education
 
 **Cybersecurity Engineering**  
@@ -152,7 +84,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 
 ---
 
-*This portfolio showcases my expertise in secure development, automation, and innovative technology solutions.*
+
 
 
 
