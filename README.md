@@ -8,10 +8,7 @@
 **Cybersecurity Engineer & Full-Stack Developer**
 
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
-[![Followers](https://img.shields.io/github/followers/frangelbarrera?style=for-the-badge&label=Followers&color=white&labelColor=000000)](https://github.com/frangelbarrera?tab=followers)
-[![GitHub followers](https://img.shields.io/github/followers/frangelbarrera?style=flat&label=Followers&color=white&labelColor=000000&logo=github&logoColor=000000)](https://github.com/frangelbarrera?tab=followers)
-![Followers](https://img.shields.io/github/followers/frangelbarrera?style=flat&color=white&labelColor=000000)
-![Profile views](https://komarev.com/ghpvc/?username=frangelbarrera&color=white&style=flat&label=Profile%20views)
+[![GitHub followers](https://img.shields.io/github/followers/frangelbarrera?style=flat&label=Followers&color=white&labelColor=000000&logo=github&logoColor=000000)]
 ![Profile views](https://komarev.com/ghpvc/?username=frangelbarrera&color=blueviolet&style=for-the-badge&label=Profile%20views)
 
 ## Passion for Technology
@@ -88,6 +85,7 @@ Available for remote opportunities worldwide. Actively seeking roles in cybersec
 https://linktr.ee/frangelbarrera
 
 ---
+
 
 
 
