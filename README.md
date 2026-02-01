@@ -98,6 +98,9 @@ https://linktr.ee/frangelbarrera
 
 
 
+---
+
+[![Perfil de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frangelbarrera&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
