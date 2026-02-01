@@ -92,6 +92,9 @@ https://linktr.ee/frangelbarrera
 [![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
 
 
+---
+
+[![Perfil de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frangelbarrera&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
