@@ -89,6 +89,10 @@ https://linktr.ee/frangelbarrera
 ---
 
 
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
+
+
+
 
 
 
