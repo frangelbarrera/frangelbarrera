@@ -95,3 +95,15 @@ https://linktr.ee/frangelbarrera
 ---
 
 [![GitHub Contribs](https://contrib.rocks/image?repo=frangelbarrera/frangelbarrera&columns=12&style=flat&padding=8&margin=8&bg=%230D1117&text=%23FFFFFF&edge=%2300B4D8&node=%2300B4D8)](https://github.com/frangelbarrera)
+
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frangelbarrera&layout=pie&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+---
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=frangelbarrera&layout=pie&theme=merko&hide_border=true
