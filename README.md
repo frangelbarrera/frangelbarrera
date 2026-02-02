@@ -100,4 +100,4 @@ https://linktr.ee/frangelbarrera
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frangelbarrera&layout=pie&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Frangel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true&graph_type=master)](https://github.com/ashutosh00710/github-readme-activity-graph)
