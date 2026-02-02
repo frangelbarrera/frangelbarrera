@@ -100,11 +100,13 @@ https://linktr.ee/frangelbarrera
 ---
 
 
-[![Frangel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
+[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frangelbarrera&theme=tokyonight&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
+---
 
+[![Contribution Graph](https://github-readme-activity-graph-sigma.vercel.app/graph?username=frangelbarrera&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true&graph_type=master)](https://github.com/ashutosh00710/github-readme-activity-graph)
