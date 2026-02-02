@@ -8,7 +8,6 @@
 **Cybersecurity Engineer & Full-Stack Developer**
 
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/frangelbarrera?style=flat&label=Followers&color=white&labelColor=000000&logo=github&logoColor=000000)
 [![X Profile](https://img.shields.io/badge/X-%40frangelbarrerax-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/frangelbarrerax)
 
 
@@ -109,4 +108,5 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
