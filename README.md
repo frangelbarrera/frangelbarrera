@@ -17,6 +17,13 @@
 
 I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. With a strong foundation in cybersecurity and full-stack development, I focus on building resilient, scalable solutions that prioritize security from the ground up (Security by Design). My journey combines offensive and defensive security techniques with modern development practices, AI integration, and automation to create impactful technological advancements.
 
+---
+
+
+[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## Core Skills & Technologies
 
 ### Programming Languages
@@ -100,16 +107,6 @@ https://linktr.ee/frangelbarrera
 
 [![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=react-dark&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
 
-
----
-
-[![GitHub Contribs](https://contrib.rocks/image?repo=frangelbarrera/frangelbarrera&columns=12&style=flat&padding=8&margin=8&bg=%230D1117&text=%23FFFFFF&edge=%2300B4D8&node=%2300B4D8)](https://github.com/frangelbarrera)
-
-
----
-
-
-[![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
