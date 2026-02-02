@@ -99,9 +99,3 @@ https://linktr.ee/frangelbarrera
 
 ---
 
-
-[![Frangel's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=frangelbarrera&theme=radical&hide_border=true&card_width=330&layout=compact&langs_count=8&type=horizontal)](https://github.com/denvercoder1/github-readme-streak-stats)
-
----
-
-[![Frangel's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=frangelbarrera&theme=tokyonight&hide_border=true&card_width=330&layout=compact&langs_count=8)](https://github.com/denvercoder1/github-readme-streak-stats)
