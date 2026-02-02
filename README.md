@@ -100,4 +100,8 @@ https://linktr.ee/frangelbarrera
 ---
 
 
-[![Frangel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true&graph_type=master)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Frangel's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=frangelbarrera&theme=radical&hide_border=true&card_width=330&layout=compact&langs_count=8&type=horizontal)](https://github.com/denvercoder1/github-readme-streak-stats)
+
+---
+
+[![Frangel's Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=frangelbarrera&theme=tokyonight&hide_border=true&card_width=330&layout=compact&langs_count=8)](https://github.com/denvercoder1/github-readme-streak-stats)
