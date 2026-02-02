@@ -93,3 +93,5 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
+[![GitHub Contribs](https://contrib.rocks/image?repo=frangelbarrera/frangelbarrera&columns=12&style=flat&padding=8&margin=8&bg=%230D1117&text=%23FFFFFF&edge=%2300B4D8&node=%2300B4D8)](https://github.com/frangelbarrera)
