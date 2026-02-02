@@ -62,6 +62,15 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-FF6B6B?style=flat&logo=adobe&logoColor=white) 
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-4285F4?style=flat&logo=google&logoColor=white) 
 
+
+---
+
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ## Education
 
 **Cybersecurity Engineering**  
@@ -100,10 +109,7 @@ https://linktr.ee/frangelbarrera
 ---
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
