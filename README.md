@@ -99,3 +99,7 @@ https://linktr.ee/frangelbarrera
 
 ---
 
+
+[![Frangel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true&graph_type=master)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
