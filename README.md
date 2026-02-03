@@ -1,21 +1,23 @@
-<p align="center">
-  <img src="assets/1.gif" alt="Demo" width="600">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+    <td align="left" valign="top" width="60%">
+      <h1>Frangel Raúl Crespo Barrera</h1>
+      <p><strong>Cybersecurity Engineer & Full-Stack Developer</strong></p>
+      <p><em>Passion for Technology</em></p>
+      <p>I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. Building resilient, scalable solutions with <b>Security by Design</b>.</p>
+    </td>
+    <td align="right" valign="middle" width="40%">
+      <img src="assets/1.gif" alt="Demo" width="100%" style="max-width: 300px; border-radius: 10px;">
+    </td>
+  </tr>
+</table> <p align="left">
+  <a href="mailto:frangelrcbarrera@gmail.com">
+    <img src="https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://x.com/frangelbarrerax">
+    <img src="https://img.shields.io/badge/X-%40frangelbarrerax-000000?style=flat-square&logo=x&logoColor=white" alt="X Profile">
+  </a>
 </p>
-
-
-# Frangel Raúl Crespo Barrera
-
-**Cybersecurity Engineer & Full-Stack Developer**
-
-[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
-[![X Profile](https://img.shields.io/badge/X-%40frangelbarrerax-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/frangelbarrerax)
-
-
-
-## Passion for Technology
-
-I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. With a strong foundation in cybersecurity and full-stack development, I focus on building resilient, scalable solutions that prioritize security from the ground up (Security by Design). My journey combines offensive and defensive security techniques with modern development practices, AI integration, and automation to create impactful technological advancements.
-
 
 [![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -95,6 +97,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
