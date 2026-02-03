@@ -66,48 +66,43 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 ---
 
+## Core Skills ── Tree View
 
-## Core Skills & Expertise
+Core ─┬─ Programming Languages
+      ├─ Python ── Core / Security / ML / Automation
+      ├─ JavaScript / TypeScript ── Web & Backend
+      ├─ Dart ── Cross-platform Apps
+      ├─ C++ ── Performance
+      └─ SQL ── Data
 
-A full-stack developer with strong focus on **security**, **AI/ML** and **cross-platform development**.
+      ├─ Frameworks & Libraries
+      │  ├─ React ── UI
+      │  ├─ Node.js + Express ── APIs
+      │  ├─ Flutter ── Mobile/Desktop
+      │  └─ TensorFlow ── Deep Learning
 
-- 🐍 **Programming Languages**
-  - Python ── Core language for security tools, automation & ML
-  - JavaScript / TypeScript ── Modern web & backend
-  - Dart ── Mobile & desktop apps
-  - C++ ── Performance-critical systems
-  - SQL ── Data modeling & queries
+      ├─ Cloud & DevOps
+      │  ├─ AWS / Azure
+      │  ├─ Docker
+      │  └─ Git
 
-- ⚛️ **Frameworks & Libraries**
-  - React ── Dynamic UIs
-  - Node.js + Express ── Scalable backends & APIs
-  - Flutter ── Beautiful cross-platform mobile/desktop
-  - TensorFlow ── Deep learning models
+      ├─ Databases
+      │  ├─ PostgreSQL
+      │  ├─ MongoDB
+      │  └─ Prisma
 
-- ☁️ **Cloud & DevOps**
-  - AWS & Azure ── Cloud infrastructure & services
-  - Docker ── Containerization
-  - Git ── Version control & collaboration
+      ├─ Cybersecurity
+      │  ├─ Ethical Hacking & Penetration Testing
+      │  ├─ Digital Forensics & OSINT
+      │  └─ CTF
 
-- 🗄️ **Databases**
-  - PostgreSQL ── Relational powerhouse
-  - MongoDB ── Flexible NoSQL
-  - Prisma ── Modern ORM for TypeScript
+      ├─ AI & Machine Learning
+      │  ├─ CNN
+      │  └─ LSTM
 
-- 🔒 **Cybersecurity**
-  - Ethical Hacking & Penetration Testing
-  - Digital Forensics & OSINT
-  - CTF Competitions
-  - Windows Security Auditing (CIS Benchmarks)
-
-- 🤖 **AI & Machine Learning**
-  - CNN (Convolutional Neural Networks)
-  - LSTM (Recurrent Networks for sequences)
-  - TensorFlow-based model development
-
-- 🛠️ **Additional Proficiencies**
-  - Linux ── Server & system administration
-  - Networking ── Protocols, security & troubleshooting
+      └─ Additional
+         ├─ Linux
+         └─ Networking
 
 
 ---
@@ -148,6 +143,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
