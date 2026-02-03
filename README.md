@@ -68,7 +68,7 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 ## Core Skills ── Tree View
 
-Core ─┬─ Programming Languages
+      ┬─ Programming Languages
       ├─ Python ── Core / Security / ML / Automation
       ├─ JavaScript / TypeScript ── Web & Backend
       ├─ Dart ── Cross-platform Apps
@@ -143,6 +143,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
