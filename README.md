@@ -1,16 +1,23 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-    <td align="left" valign="top" width="60%">
-      <h1>Frangel Raúl Crespo Barrera</h1>
-      <p><strong>Cybersecurity Engineer & Full-Stack Developer</strong></p>
-      <p><em>Passion for Technology</em></p>
-      <p>I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. Building resilient, scalable solutions with <b>Security by Design</b>.</p>
-    </td>
-    <td align="right" valign="middle" width="40%">
-      <img src="assets/1.gif" alt="Demo" width="100%" style="max-width: 300px; border-radius: 10px;">
-    </td>
-  </tr>
-</table> <p align="left">
+<div align="left">
+<table border="0" style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="width: 65%; border: none; vertical-align: top;">
+        <h1>Frangel Raúl Crespo Barrera</h1>
+        <p><strong>Cybersecurity Engineer & Full-Stack Developer</strong></p>
+        <h3>Passion for Technology</h3>
+        <p>
+          I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. 
+          With a strong foundation in cybersecurity and full-stack development, I focus on building resilient, scalable solutions 
+          that prioritize security from the ground up (Security by Design). My journey combines offensive and defensive security 
+          techniques with modern development practices, AI integration, and automation to create impactful technological advancements.
+        </p>
+      </td>
+      <td style="width: 35%; border: none; vertical-align: middle;" align="right">
+        <img src="assets/1.gif" alt="Demo" width="280" style="border-radius: 8px;">
+      </td>
+    </tr>
+  </table>
+</div> <p align="left">
   <a href="mailto:frangelrcbarrera@gmail.com">
     <img src="https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -97,6 +104,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
