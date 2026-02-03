@@ -16,12 +16,9 @@
 
 I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. With a strong foundation in cybersecurity and full-stack development, I focus on building resilient, scalable solutions that prioritize security from the ground up (Security by Design). My journey combines offensive and defensive security techniques with modern development practices, AI integration, and automation to create impactful technological advancements.
 
----
-
 
 [![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ## Core Skills & Technologies
 
@@ -105,6 +102,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
