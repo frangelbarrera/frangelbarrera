@@ -66,6 +66,52 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 ---
 
+
+## Core Skills & Expertise
+
+A full-stack developer with strong focus on **security**, **AI/ML** and **cross-platform development**.
+
+- 🐍 **Programming Languages**
+  - Python ── Core language for security tools, automation & ML
+  - JavaScript / TypeScript ── Modern web & backend
+  - Dart ── Mobile & desktop apps
+  - C++ ── Performance-critical systems
+  - SQL ── Data modeling & queries
+
+- ⚛️ **Frameworks & Libraries**
+  - React ── Dynamic UIs
+  - Node.js + Express ── Scalable backends & APIs
+  - Flutter ── Beautiful cross-platform mobile/desktop
+  - TensorFlow ── Deep learning models
+
+- ☁️ **Cloud & DevOps**
+  - AWS & Azure ── Cloud infrastructure & services
+  - Docker ── Containerization
+  - Git ── Version control & collaboration
+
+- 🗄️ **Databases**
+  - PostgreSQL ── Relational powerhouse
+  - MongoDB ── Flexible NoSQL
+  - Prisma ── Modern ORM for TypeScript
+
+- 🔒 **Cybersecurity**
+  - Ethical Hacking & Penetration Testing
+  - Digital Forensics & OSINT
+  - CTF Competitions
+  - Windows Security Auditing (CIS Benchmarks)
+
+- 🤖 **AI & Machine Learning**
+  - CNN (Convolutional Neural Networks)
+  - LSTM (Recurrent Networks for sequences)
+  - TensorFlow-based model development
+
+- 🛠️ **Additional Proficiencies**
+  - Linux ── Server & system administration
+  - Networking ── Protocols, security & troubleshooting
+
+
+---
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -102,6 +148,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
