@@ -66,8 +66,7 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ## Education
 
 **Cybersecurity Engineering**  
-Universidad de Ciencias Informáticas (UCI), Havana, Cuba  
-*September 2020 – June 2025*  
+Universidad de Ciencias Informáticas (UCI), Havana, Cuba    
 
 Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification"
 
@@ -94,6 +93,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
