@@ -20,19 +20,19 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 [![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Tech Stack & Tools
 
-<div align="center">
+<div align="left">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,mysql,postgres,mongodb,prisma" alt="Languages & DBs" />
   <br><br>
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,flutter,tensorflow,sklearn,pandas" alt="Frameworks & AI" />
   <br><br>
-  <!-- Cybersecurity, OSINT & Infrastructure -->
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows,networks,docker,aws,azure,git,postman,nginx" alt="Cybersecurity & Infra" />
+  <!-- Cybersecurity, Infrastructure & Tools -->
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,docker,aws,azure,git,postman,nginx,powershell" alt="Cybersecurity & Infra" />
 </div>
+
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
@@ -93,6 +93,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
