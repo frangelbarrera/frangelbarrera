@@ -21,45 +21,6 @@ I am passionate about secure software development, ethical hacking, and leveragi
 [![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Core Skills & Technologies
-
-      ┬─ Programming Languages
-      ├─ Python ── Core / Security / ML / Automation
-      ├─ JavaScript / TypeScript ── Web & Backend
-      ├─ Dart ── Cross-platform Apps
-      ├─ C++ ── Performance
-      └─ SQL ── Data
-
-      ├─ Frameworks & Libraries
-      │  ├─ React ── UI
-      │  ├─ Node.js + Express ── APIs
-      │  ├─ Flutter ── Mobile/Desktop
-      │  └─ TensorFlow ── Deep Learning
-
-      ├─ Cloud & DevOps
-      │  ├─ AWS / Azure
-      │  ├─ Docker
-      │  └─ Git
-
-      ├─ Databases
-      │  ├─ PostgreSQL
-      │  ├─ MongoDB
-      │  └─ Prisma
-
-      ├─ Cybersecurity
-      │  ├─ Ethical Hacking & Penetration Testing
-      │  ├─ Digital Forensics & OSINT
-      │  └─ CTF
-
-      ├─ AI & Machine Learning
-      │  ├─ CNN
-      │  └─ LSTM
-
-      └─ Additional
-         ├─ Linux
-         └─ Networking
-
-
 ## Tech Stack & Tools
 
 <div align="center">
@@ -132,6 +93,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
