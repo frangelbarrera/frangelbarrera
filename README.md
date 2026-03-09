@@ -27,6 +27,11 @@ I am passionate about secure software development, ethical hacking, and leveragi
 </div>
 
 
+## GitHub Metrics
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/frangelbarrera/frangelbarrera/main/github-metrics.svg" />
+</p>
 
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
@@ -87,6 +92,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
