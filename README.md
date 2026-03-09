@@ -62,6 +62,29 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+<div style="text-align: center;">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frangelbarrera &theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frangelbarrera &theme=dracula" alt="GitHub Details"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -95,6 +118,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
