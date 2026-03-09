@@ -60,6 +60,20 @@ I am passionate about secure software development, ethical hacking, and leveragi
          └─ Networking
 
 
+## Tech Stack & Tools
+
+<div align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,mysql,postgres,mongodb,prisma" alt="Languages & DBs" />
+  <br><br>
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,flutter,tensorflow,sklearn,pandas" alt="Frameworks & AI" />
+  <br><br>
+  <!-- Cybersecurity, OSINT & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,networks,docker,aws,azure,git,postman,nginx" alt="Cybersecurity & Infra" />
+</div>
+
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
@@ -118,6 +132,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
