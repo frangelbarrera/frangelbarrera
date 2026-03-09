@@ -23,15 +23,9 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ## Tech Stack & Tools
 
 <div align="left">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,mysql,postgres,mongodb,prisma" alt="Languages & DBs" />
-  <br><br>
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,flutter,tensorflow,sklearn,pandas" alt="Frameworks & AI" />
-  <br><br>
-  <!-- Cybersecurity, Infrastructure & Tools -->
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows,docker,aws,azure,git,postman,nginx,powershell" alt="Cybersecurity & Infra" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,mysql,postgres,mongodb,prisma,fastapi,nodejs,express,react,flutter,tensorflow,sklearn,pandas,kali,linux,windows,docker,aws,azure,git,postman,nginx,powershell" />
 </div>
+
 
 
 
@@ -93,6 +87,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
