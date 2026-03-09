@@ -6,11 +6,12 @@
 # Frangel Raúl Crespo Barrera
 
 **Cybersecurity Engineer & Full-Stack Developer**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=808080&center=true&vCenter=true&random=false&width=600&lines=Security+by+Design;Ethical+Hacker+%26+Penetration+Tester;Full-Stack+Developer;AI+%26+Deep+Learning+Explorer;CTF+Player)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
 [![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/frangelbarrera)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=808080&center=true&vCenter=true&random=false&width=600&lines=Security+by+Design;Ethical+Hacker+%26+Penetration+Tester;Full-Stack+Developer;AI+%26+Deep+Learning+Explorer;CTF+Player)](https://git.io/typing-svg)
 
 
 ## Passion for Technology
@@ -94,5 +95,6 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
