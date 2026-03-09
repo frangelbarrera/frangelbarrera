@@ -32,8 +32,6 @@ I am passionate about secure software development, ethical hacking, and leveragi
 <p align="left">
   <img src="https://raw.githubusercontent.com/frangelbarrera/frangelbarrera/main/github-metrics.svg" />
 </p>
-
-
 <br />
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -90,6 +88,7 @@ https://linktr.ee/frangelbarrera
 
 
 ---
+
 
 
 
