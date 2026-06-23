@@ -73,8 +73,8 @@ Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL 
 
 ## Languages
 
-- Spanish: Native
-- English: B1 - Intermediate
+- Spanish
+- English
 
 ## Contact
 
