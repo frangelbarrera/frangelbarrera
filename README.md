@@ -72,11 +72,6 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 - Spanish
 - English
 
-## Contact
-
-Available for remote opportunities worldwide. Actively seeking roles in cybersecurity, software development, and AI integration.
-[linktr.ee/frangelbarrera](https://linktr.ee/frangelbarrera)
-
 ---
 
 
