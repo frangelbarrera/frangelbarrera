@@ -23,7 +23,7 @@ I am passionate about secure software development, ethical hacking, and leveragi
 ## Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,mysql,postgres,mongodb,prisma,fastapi,nodejs,express,react,flutter,tensorflow,sklearn,pandas,kali,linux,windows,docker,aws,azure,git,postman,nginx,powershell" />
+  <img src="https://skillicons.dev/icons?i=py, bash, ts, js, cpp, fastapi, nodejs, react, tensorflow, sklearn, kali, linux, docker, aws, git, postman" />
 </div>
 
 
