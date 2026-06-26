@@ -64,7 +64,7 @@ I am passionate about secure software development, ethical hacking, and leveragi
 **Cybersecurity Engineering**  
 Universidad de Ciencias Informáticas (UCI), Havana, Cuba    
 
-Thesis: "Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification"
+Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification](https://github.com/frangelbarrera/phishing-detection-rnn-cnn)"
 
 ## Certifications
 
