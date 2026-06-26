@@ -56,12 +56,11 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 ## Education
 
-**Cybersecurity Engineering**  
-Universidad de Ciencias Informáticas (UCI), Havana, Cuba    
+B.Sc. in Cybersecurity Engineering — Universidad de Ciencias Informáticas (UCI), Havana, CubaGraduated: July 2025  
 
-Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification](https://github.com/frangelbarrera/phishing-detection-rnn-cnn)"
+Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification](https://github.com/frangelbarrera/phishing-detection-rnn-cnn)"— built during the final year of study, the project applies deep learning techniques to detect malicious URLs and is now an open-source reference repository.
 
-## Certifications
+## Certifications & Training
 
 - Ethical Hacker (Cisco Networking Academy)
 - Artificial Intelligence Fundamentals (IBM SkillsBuild)
