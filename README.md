@@ -80,7 +80,7 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 ## Contact
 
 Available for remote opportunities worldwide. Actively seeking roles in cybersecurity, software development, and AI integration.
-https://linktr.ee/frangelbarrera
+[linktr.ee/frangelbarrera](https://linktr.ee/frangelbarrera)
 
 ---
 
