@@ -32,15 +32,6 @@ I am passionate about secure software development, ethical hacking, and leveragi
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-<div style="text-align: center;">
-
-<td align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frangelbarrera&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
-  </a>
-</td>
-
 ---
 
 ## Education
