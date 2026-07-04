@@ -47,6 +47,12 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 - Artificial Intelligence Fundamentals (IBM SkillsBuild)
 - Cyber Intelligence Course (University of Salamanca)
 
+## Open Source
+
+- 📄 **Documentation contributor** to [Palantir Blueprint](https://github.com/palantir/blueprint/pull/7742) — JSDoc for the `renderFilteredItems` utility, reviewed by maintainers and shipped in `@blueprintjs/select@6.1.0`.
+- 🧭 **Curation contributor** to [vinta/awesome-python](https://github.com/vinta/awesome-python/pull/2897) (306k★) — listed `sherlock` under Penetration Testing.
+- 🔌 `osint-agent-skills` is featured in [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) — listed under Threat Intelligence.
+
 ## Languages
 
 - Spanish
