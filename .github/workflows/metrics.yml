@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: frangelbarrera
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: America/Havana # Ajusta a tu zona horaria
           plugin_languages: yes
           plugin_languages_ignored: html, css # Ignora lenguajes simples para resaltar los core
