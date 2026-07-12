@@ -2,12 +2,11 @@
 
 **Cybersecurity Engineer & Full-Stack Developer**
 
-[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue)](mailto:frangelrcbarrera@gmail.com)
-[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/frangelbarrera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=flat-square&logo=vercel&logoColor=white)](https://frangelbarrera.vercel.app)
+[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=flat-square)](mailto:frangelrcbarrera@gmail.com)
+[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/frangelbarrera)
 
-## Passion for Technology
-
-I am passionate about secure software development, ethical hacking, and leveraging technology to solve complex problems. With a strong foundation in cybersecurity and full-stack development, I focus on building resilient, scalable solutions that prioritize security from the ground up (Security by Design). My journey combines offensive and defensive security techniques with modern development practices, AI integration, and automation to create impactful technological advancements.
+Every screen is a surface. I got curious about what's underneath.
 
 [![Frangel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=frangelbarrera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
