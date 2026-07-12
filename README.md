@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=flat-square&logo=vercel&logoColor=white)](https://frangelbarrera.vercel.app)
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=flat-square)](mailto:frangelrcbarrera@gmail.com)
-[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/frangelbarrera)
+[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/frangelbarrera)
 
 Every screen is a surface. I got curious about what's underneath.
 
