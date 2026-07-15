@@ -43,6 +43,7 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 - 🧭 **Curation contributor** to [vinta/awesome-python](https://github.com/vinta/awesome-python/pull/2897) (306k★) — listed `sherlock` under Penetration Testing.
 - 🔌 `osint-agent-skills` is featured in [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers/pull/43) — listed under Threat Intelligence.
 - 📚 **Curation contributor** to [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/pull/1020) (27k★) — listed `OSINT-BIBLE` under Related Awesome Lists.
+- 🛡️ **Documentation contributor** to [kubescape/kubescape](https://github.com/kubescape/kubescape/pull/2475) (11.5k★) — added an ICS/OT workload scanning guide with example manifests and a scoped exception pattern.
 
 ## Languages
 
