@@ -29,6 +29,10 @@ Here are some of the key technologies and tools I work with:
 **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white ) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white ) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white )
 
+**AI & Agentic Workflows:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white ) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white ) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white ) ![Agentic%20Workflows](https://img.shields.io/badge/Agentic%20Workflows-000000?style=for-the-badge&logo=github-actions&logoColor=white ) ![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black )
+
+
 
 ## GitHub Metrics
 
