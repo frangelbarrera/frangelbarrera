@@ -36,7 +36,9 @@ Here are some of the key technologies and tools I work with:
 
 ## GitHub Metrics
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+## GitHub Metrics
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Metrics" width="600" style="max-width:100%;">
 
 ---
 
