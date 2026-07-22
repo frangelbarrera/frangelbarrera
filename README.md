@@ -1,7 +1,7 @@
 # Hi there, I'm Frangel Raúl 👋
 ### Cybersecurity Engineer & Full-Stack Developer
 
-![](assets/1.png)
+![](assets/1.jpg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=for-the-badge&logo=vercel&logoColor=white )](https://frangelbarrera.vercel.app )
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=for-the-badge )](mailto:frangelrcbarrera@gmail.com)
