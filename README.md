@@ -9,23 +9,7 @@
 
 Every screen is a surface. I got curious about what's underneath.
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=frangelbarrera&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=3D649E&title_color=FFFFFF&text_color=D8E7FA&icon_color=A8CCF7&ring_color=82B6F7"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frangelbarrera&layout=compact&hide_border=true&bg_color=3D649E&title_color=FFFFFF&text_color=D8E7FA"
-  />
-</p>
-## Tech Stack & Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,bash,ts,js,cpp,fastapi,nodejs,react,tensorflow,sklearn,kali,linux,docker,aws,git,postman" />
-</div>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frangelbarrera&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=3D649E&title_color=FFFFFF&text_color=D8E7FA&icon_color=A8CCF7)
 
 ## GitHub Metrics
 
