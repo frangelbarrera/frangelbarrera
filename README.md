@@ -44,6 +44,7 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 - 🔌 `osint-agent-skills` is featured in [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers/pull/43) — listed under Threat Intelligence.
 - 📚 **Curation contributor** to [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/pull/1020) (27k★) — listed `OSINT-BIBLE` under Related Awesome Lists.
 - 🛡️ **Documentation contributor** to [kubescape/kubescape](https://github.com/kubescape/kubescape/pull/2475) (11.5k★) — added an ICS/OT workload scanning guide with example manifests and a scoped exception pattern.
+  - 🔐 **Documentation contributor** to [cloudflare/circl](https://github.com/cloudflare/circl/pull/668) (1.7k★) — added a "Constant-Time Caveats" section to the README of Cloudflare's post-quantum crypto library.
 
 ## Languages
 
