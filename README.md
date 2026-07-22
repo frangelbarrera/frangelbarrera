@@ -1,3 +1,4 @@
+![](assets/1.png)
 # Frangel Raúl Crespo Barrera
 
 **Cybersecurity Engineer & Full-Stack Developer**
