@@ -3,13 +3,15 @@
 
 **Cybersecurity Engineer & Full-Stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=flat-square&logo=vercel&logoColor=white)](https://frangelbarrera.vercel.app)
-[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=flat-square)](mailto:frangelrcbarrera@gmail.com)
-[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/frangelbarrera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=for-the-badge&logo=vercel&logoColor=white )](https://frangelbarrera.vercel.app )
+[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=for-the-badge )](mailto:frangelrcbarrera@gmail.com)
+[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=for-the-badge&logo=twitter&logoColor=white )](https://x.com/frangelbarrera )
+
 
 Every screen is a surface. I got curious about what's underneath.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frangelbarrera&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=3D649E&title_color=FFFFFF&text_color=D8E7FA&icon_color=A8CCF7)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=tokyo-night&days=180&area=true&hide_border=true )
+
 
 ## GitHub Metrics
 
@@ -51,7 +53,11 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 
 
 ---
+## 🤝 Let\'s Collaborate!
 
+I\'m always open to collaborating on interesting projects, especially in cybersecurity, full-stack development, and open source initiatives. Feel free to reach out!
+
+---
 
 
 
