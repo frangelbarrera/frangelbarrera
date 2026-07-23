@@ -1,9 +1,9 @@
 # Hi there, I'm Frangel👋
 ### Cybersecurity Engineer & Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=for-the-badge&logo=vercel&logoColor=white )](https://frangelbarrera.vercel.app )
+[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=for-the-badge&logo=vercel&logoColor=black )](https://frangelbarrera.vercel.app )
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=for-the-badge )](mailto:frangelrcbarrera@gmail.com)
-[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=for-the-badge&logo=twitter&logoColor=white )](https://x.com/frangelbarrera )
+[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=for-the-badge&logo=twitter&logoColor=black )](https://x.com/frangelbarrera )
 
 
 Every screen is a surface. I got curious about what's underneath.
@@ -13,22 +13,22 @@ Every screen is a surface. I got curious about what's underneath.
 Here are some of the key technologies and tools I work with:
 
 **Programming Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white ) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white )
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black ) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black ) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black )
 
 **Cybersecurity Tools:**
-![Nmap](https://img.shields.io/badge/Nmap-7B0000?style=for-the-badge&logo=nmap&logoColor=white ) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white ) ![Metasploit](https://img.shields.io/badge/Metasploit-EE4035?style=for-the-badge&logo=metasploit&logoColor=white ) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white ) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white )
+![Nmap](https://img.shields.io/badge/Nmap-7B0000?style=for-the-badge&logo=nmap&logoColor=black ) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=black ) ![Metasploit](https://img.shields.io/badge/Metasploit-EE4035?style=for-the-badge&logo=metasploit&logoColor=black ) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=black ) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=black )
 
 **Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black ) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white ) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white ) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white ) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white )
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black ) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black ) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=black ) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black ) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black )
 
 **Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white ) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white ) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white )
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black ) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=black ) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=black )
 
 **Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white ) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white ) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white )
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=black ) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black ) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=black )
 
 **AI & Agentic Workflows:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white ) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white ) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white ) ![Agentic%20Workflows](https://img.shields.io/badge/Agentic%20Workflows-000000?style=for-the-badge&logo=github-actions&logoColor=white ) ![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black )
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=black ) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=black ) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=black ) ![Agentic%20Workflows](https://img.shields.io/badge/Agentic%20Workflows-000000?style=for-the-badge&logo=github-actions&logoColor=black ) ![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black )
 
 ## GitHub Metrics
 
