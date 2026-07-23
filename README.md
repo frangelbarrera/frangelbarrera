@@ -1,9 +1,9 @@
 # Hi there, I'm Frangel👋
 ### Cybersecurity Engineer & Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=for-the-badge&logo=vercel&logoColor=black )](https://frangelbarrera.vercel.app )
-[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=for-the-badge )](mailto:frangelrcbarrera@gmail.com)
-[![X Profile](https://img.shields.io/badge/X-%40frangelbarrera-000000?style=for-the-badge&logo=twitter&logoColor=black )](https://x.com/frangelbarrera )
+[![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=black)](https://frangelbarrera.vercel.app)
+[![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:frangelrcbarrera@gmail.com)
+[![X](https://img.shields.io/badge/X-%40frangelbarrera-1a1a1a?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/frangelbarrera)
 
 
 Every screen is a surface. I got curious about what's underneath.
@@ -12,27 +12,7 @@ Every screen is a surface. I got curious about what's underneath.
 
 Here are some of the key technologies and tools I work with:
 
-**Programming Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black ) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black ) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black ) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black )
-
-**Cybersecurity Tools:**
-![Nmap](https://img.shields.io/badge/Nmap-7B0000?style=for-the-badge&logo=nmap&logoColor=black ) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=black ) ![Metasploit](https://img.shields.io/badge/Metasploit-EE4035?style=for-the-badge&logo=metasploit&logoColor=black ) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=black ) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=black )
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black ) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black ) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=black ) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black ) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black )
-
-**Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black ) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=black ) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=black )
-
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=black ) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black ) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=black )
-
-**AI & Agentic Workflows:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=black ) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=black ) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=black ) ![Agentic%20Workflows](https://img.shields.io/badge/Agentic%20Workflows-000000?style=for-the-badge&logo=github-actions&logoColor=black ) ![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black )
-
-## GitHub Metrics
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Metrics" width="600" style="max-width:100%;">
+<img src="https://cdn.simpleicons.org/python/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Python" /> <img src="https://cdn.simpleicons.org/javascript/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="JavaScript" /> <img src="https://cdn.simpleicons.org/typescript/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/go/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Go" /> <img src="https://cdn.simpleicons.org/react/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="React" /> <img src="https://cdn.simpleicons.org/nodedotjs/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Node.js" /> <img src="https://cdn.simpleicons.org/express/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Express" /> <img src="https://cdn.simpleicons.org/django/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Django" /> <img src="https://cdn.simpleicons.org/flask/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Flask" /> <img src="https://cdn.simpleicons.org/mysql/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="MySQL" /> <img src="https://cdn.simpleicons.org/postgresql/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="PostgreSQL" /> <img src="https://cdn.simpleicons.org/mongodb/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="MongoDB" /> <img src="https://cdn.simpleicons.org/docker/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Docker" /> <img src="https://cdn.simpleicons.org/kubernetes/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Kubernetes" /> <img src="https://cdn.simpleicons.org/anthropic/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Claude" /> <img src="https://cdn.simpleicons.org/langchain/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="LangChain" /> <img src="https://cdn.simpleicons.org/wireshark/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Wireshark" /> <img src="https://cdn.simpleicons.org/burpsuite/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Burp Suite" /> <img src="https://cdn.simpleicons.org/owasp/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="OWASP" /> <img src="https://cdn.simpleicons.org/googlecloud/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Google Cloud" /> <img src="https://cdn.simpleicons.org/digitalocean/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="DigitalOcean" /> <img src="https://cdn.simpleicons.org/cloudflare/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Cloudflare" />
 
 ---
 
@@ -48,6 +28,11 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 - Ethical Hacker (Cisco Networking Academy)
 - Artificial Intelligence Fundamentals (IBM SkillsBuild)
 - Cyber Intelligence Course (University of Salamanca)
+
+
+## GitHub Metrics
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Metrics" width="600" style="max-width:100%;">
 
 ## Open Source
 
@@ -68,7 +53,7 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 ---
 
 
-[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=tokyo-night&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
+[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=github-compact&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
 
 
 ---
