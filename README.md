@@ -6,15 +6,9 @@
 [![X](https://img.shields.io/badge/X-%40frangelbarrera-1a1a1a?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/frangelbarrera)
 
 
-Every screen is a surface. I got curious about what's underneath.
-
-## 🛠️ Skills & Technologies
-
-Here are some of the key technologies and tools I work with:
+## Skills & Technologies
 
 <img src="https://cdn.simpleicons.org/python/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Python" /> <img src="https://cdn.simpleicons.org/javascript/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="JavaScript" /> <img src="https://cdn.simpleicons.org/typescript/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/go/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Go" /> <img src="https://cdn.simpleicons.org/react/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="React" /> <img src="https://cdn.simpleicons.org/nodedotjs/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Node.js" /> <img src="https://cdn.simpleicons.org/express/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Express" /> <img src="https://cdn.simpleicons.org/django/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Django" /> <img src="https://cdn.simpleicons.org/flask/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Flask" /> <img src="https://cdn.simpleicons.org/mysql/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="MySQL" /> <img src="https://cdn.simpleicons.org/postgresql/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="PostgreSQL" /> <img src="https://cdn.simpleicons.org/mongodb/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="MongoDB" /> <img src="https://cdn.simpleicons.org/docker/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Docker" /> <img src="https://cdn.simpleicons.org/kubernetes/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Kubernetes" /> <img src="https://cdn.simpleicons.org/anthropic/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Claude" /> <img src="https://cdn.simpleicons.org/langchain/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="LangChain" /> <img src="https://cdn.simpleicons.org/wireshark/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Wireshark" /> <img src="https://cdn.simpleicons.org/burpsuite/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Burp Suite" /> <img src="https://cdn.simpleicons.org/owasp/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="OWASP" /> <img src="https://cdn.simpleicons.org/googlecloud/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Google Cloud" /> <img src="https://cdn.simpleicons.org/digitalocean/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="DigitalOcean" /> <img src="https://cdn.simpleicons.org/cloudflare/000000" width="48" height="48" style="border-radius: 12px; margin: 4px;" alt="Cloudflare" />
-
----
 
 ## Education
 
@@ -50,18 +44,14 @@ Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL
 - Spanish
 - English
 
----
-
 
 [![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=github-compact&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
 
 
----
 ## 🤝 Let\'s Collaborate!
 
 I\'m always open to collaborating on interesting projects, especially in cybersecurity, full-stack development, and open source initiatives. Feel free to reach out!
 
----
 
 
 
