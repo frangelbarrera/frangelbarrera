@@ -1,7 +1,5 @@
-# Hi there, I'm Frangel Raúl 👋
+# Hi there, I'm Frangel👋
 ### Cybersecurity Engineer & Full-Stack Developer
-
-![](assets/1.jpg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-9cf?style=for-the-badge&logo=vercel&logoColor=white )](https://frangelbarrera.vercel.app )
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-blue?style=for-the-badge )](mailto:frangelrcbarrera@gmail.com)
@@ -31,10 +29,6 @@ Here are some of the key technologies and tools I work with:
 
 **AI & Agentic Workflows:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white ) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white ) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white ) ![Agentic%20Workflows](https://img.shields.io/badge/Agentic%20Workflows-000000?style=for-the-badge&logo=github-actions&logoColor=white ) ![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=google-gemini&logoColor=black )
-
-
-
-## GitHub Metrics
 
 ## GitHub Metrics
 
