@@ -15,7 +15,7 @@
 B.Sc. in Cybersecurity Engineering — Universidad de Ciencias Informáticas (UCI), Havana, Cuba
 Graduated: July 2025 
 
-Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification](https://github.com/frangelbarrera/phishing-detection-rnn-cnn)"— built during the final year of study, the project applies deep learning techniques to detect malicious URLs and is now an open-source reference repository.
+Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification](https://github.com/frangelbarrera/phishing-detection-rnn-cnn/tree/thesis-original)"— built during the final year of study, the project applies deep learning techniques to detect malicious URLs and is now an open-source reference repository.
 
 ## Certifications & Training
 
