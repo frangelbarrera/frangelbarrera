@@ -12,10 +12,10 @@
 
 ## Education
 
-B.Sc. in Cybersecurity Engineering — Universidad de Ciencias Informáticas (UCI), Havana, Cuba
-Graduated: July 2025 
+**Cybersecurity Engineering** *(Ingeniería en Ciberseguridad)* — Universidad de las Ciencias Informáticas (UCI), Havana, Cuba · Graduated July 2025
 
-Thesis: "[Phishing Detection using Deep Learning: CNN and LSTM for Malicious URL Classification](https://github.com/frangelbarrera/phishing-detection-rnn-cnn/tree/thesis-original)"— built during the final year of study, the project applies deep learning techniques to detect malicious URLs and is now an open-source reference repository.
+**Thesis:** [Modelo de detección de phishing en sitios web usando redes neuronales recurrentes y convolucionales](https://github.com/frangelbarrera/phishing-detection-rnn-cnn/tree/thesis-original)
+
 
 ## Certifications & Training
 
