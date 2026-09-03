@@ -21,7 +21,7 @@
 - 📚 **Curation contributor** to [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/pull/1020) (27k★) — listed `OSINT-BIBLE` under Related Awesome Lists.
 - 🛡️ **Documentation contributor** to [kubescape/kubescape](https://github.com/kubescape/kubescape/pull/2475) (11.5k★) — added an ICS/OT workload scanning guide with example manifests and a scoped exception pattern.
 - 🔐 **Documentation contributor** to [cloudflare/circl](https://github.com/cloudflare/circl/pull/668) (1.7k★) — added a "Constant-Time Caveats" section to the README of Cloudflare's post-quantum crypto library.
-- 🛡️ **Maintainer & Lead Translator** for [OWASP Web Security Testing Guide (WSTG) Spanish Translation](https://github.com/frangelbarrera/wstg ) — Led the community-driven effort to provide a complete and professional Spanish translation of the official OWASP WSTG, including extensive auditing and correction of content.
+- 🛡️ **Maintainer of a community-driven Spanish translation of the [OWASP Web Security Testing Guide (WSTG)](https://github.com/frangelbarrera/wstg )**, focused on technical review, terminology consistency, and content quality.
 - 🧪 **Ling-3-flash-evaluation**. [Ling-3](https://github.com/frangelbarrera/Ling-3-flash-evaluation) — Independent security & capability evaluation of Ant Group's Ling-3.0-flash. First public benchmarks, 845 API calls, 12 test phases.
 
 ## Languages
