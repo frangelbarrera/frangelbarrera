@@ -1,5 +1,5 @@
 # Hi there, I'm Frangel👋
-### Cybersecurity Engineer & Full-Stack Developer
+### I build defensive security systems across threat intelligence, ICS/OT, and applied AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-frangelbarrera.vercel.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=black)](https://frangelbarrera.vercel.app)
 [![Email](https://img.shields.io/badge/Email-frangelrcbarrera%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:frangelrcbarrera@gmail.com)
