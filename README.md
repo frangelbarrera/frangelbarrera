@@ -26,12 +26,8 @@
 
 ## Languages
 
-- Spanish
-- English
-
-
-[![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=frangelbarrera&theme=github-compact&days=180&area=true&hide_border=true)](https://github.com/frangelbarrera)
-
+- **Spanish:** Native
+- **English:** B2 (CEFR)
 
 ## 🤝 Let\'s Collaborate!
 
