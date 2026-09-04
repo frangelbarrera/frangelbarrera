@@ -31,7 +31,7 @@
 
 ## 🤝 Let\'s Collaborate!
 
-I\'m always open to collaborating on interesting projects, especially in cybersecurity, full-stack development, and open source initiatives. Feel free to reach out!
+I'm always open to collaborating on interesting projects in cybersecurity, threat intelligence, and open source initiatives.
 
 
 
