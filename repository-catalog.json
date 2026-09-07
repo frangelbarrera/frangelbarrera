@@ -1,0 +1,691 @@
+{
+  "catalog_version": "1.0.0",
+  "catalog_name": "Frangel Barrera — Public Repository Catalog",
+  "owner": "frangelbarrera",
+  "scope": {
+    "included": "Public repositories owned by frangelbarrera, excluding the profile index repository itself.",
+    "fork_policy": "Forks created for pull requests are excluded. The wstg fork is included as the sole explicitly allowed exception because it is the maintained Spanish translation project.",
+    "private_repositories": "Excluded.",
+    "claims_policy": "Descriptions are limited to repository metadata and README-supported facts. Maturity is not_assessed unless the repository explicitly identifies a research, curated, translation, prototype, or early-stage role."
+  },
+  "taxonomy": {
+    "curated_lists_and_directories": "Editorial lists, directories, and guides.",
+    "ai_agents_and_agent_infrastructure": "Agent runtimes, orchestration, control planes, and MCP infrastructure.",
+    "osint_and_threat_intelligence": "Open-source intelligence, investigation, and cyber-threat-intelligence projects.",
+    "network_and_infrastructure_security": "Network, cloud, Windows, and infrastructure security tools.",
+    "ics_ot_and_scada_security": "Industrial control systems, OT, SCADA, and related security work.",
+    "application_and_ai_security": "Application security, AI security, phishing defense, and code-security tooling.",
+    "malware_and_binary_analysis": "Malware analysis, reverse engineering, and defensive research.",
+    "research_and_evaluations": "Evaluations, benchmarks, and research-oriented artifacts.",
+    "software_quality_and_developer_tools": "Developer productivity and software-quality tooling.",
+    "open_source_translations_and_documentation": "Translations and documentation-maintenance projects.",
+    "software_and_product_prototypes": "Application prototypes and reusable software foundations.",
+    "cloud_and_infrastructure_security": "Cloud, Windows, and infrastructure security tools."
+  },
+  "entries": [
+    {
+      "name": "Abster-Intelligence",
+      "url": "https://github.com/frangelbarrera/Abster-Intelligence",
+      "visibility": "public",
+      "primary_category": "osint_and_threat_intelligence",
+      "secondary_categories": [
+        "privacy_and_local_first"
+      ],
+      "project_type": "software",
+      "summary": "Local-first OSINT platform for investigators, presented by the repository as open-source and privacy-centric.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "maturity": "not_assessed",
+      "license": "Apache-2.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "OSINT workflows",
+        "investigative workspace"
+      ],
+      "caveat": "Capabilities and production readiness were not independently benchmarked."
+    },
+    {
+      "name": "aegistrace-threat-intelligence",
+      "url": "https://github.com/frangelbarrera/aegistrace-threat-intelligence",
+      "visibility": "public",
+      "primary_category": "osint_and_threat_intelligence",
+      "secondary_categories": [
+        "defensive_security",
+        "data_pipelines"
+      ],
+      "project_type": "software",
+      "summary": "Python CTI pipeline that collects and enriches IoCs from five feeds, produces Plotly and CSV outputs, and forecasts seven-day threat trends.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "IoC collection",
+        "feed enrichment",
+        "dashboard",
+        "CSV export",
+        "trend forecasting"
+      ],
+      "caveat": "Forecasts and feed quality require independent validation."
+    },
+    {
+      "name": "agentic-harness",
+      "url": "https://github.com/frangelbarrera/agentic-harness",
+      "visibility": "public",
+      "primary_category": "ai_agents_and_agent_infrastructure",
+      "secondary_categories": [
+        "llm_workflows",
+        "mcp"
+      ],
+      "project_type": "software",
+      "summary": "Python agent harness for auditable, cost-controlled LLM workflows using YAML playbooks and MCP server support.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "Apache-2.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "YAML playbooks",
+        "workflow execution",
+        "cost controls",
+        "MCP support"
+      ],
+      "caveat": "Not represented as production-ready without an independent operational review."
+    },
+    {
+      "name": "Artificial-Intelligence-Universe",
+      "url": "https://github.com/frangelbarrera/Artificial-Intelligence-Universe",
+      "visibility": "public",
+      "primary_category": "curated_lists_and_directories",
+      "secondary_categories": [
+        "ai_tools",
+        "mcp",
+        "learning_resources"
+      ],
+      "project_type": "curated_directory",
+      "summary": "Curated directory of AI tools, agents, LLMs, MCP servers, and learning resources.",
+      "technologies": [],
+      "maturity": "curated",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Editorial categorization",
+        "resource discovery"
+      ],
+      "caveat": "Entries are curated references; inclusion is not an endorsement."
+    },
+    {
+      "name": "awesome-ai-agents",
+      "url": "https://github.com/frangelbarrera/awesome-ai-agents",
+      "visibility": "public",
+      "primary_category": "curated_lists_and_directories",
+      "secondary_categories": [
+        "ai_agents",
+        "mcp",
+        "evaluations"
+      ],
+      "project_type": "curated_list",
+      "summary": "Curated list of AI agent frameworks, coding and automation agents, MCP servers, and evaluation tools.",
+      "technologies": [],
+      "maturity": "curated",
+      "license": "CC0-1.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Repository discovery",
+        "editorial curation"
+      ],
+      "caveat": "Entries are curated references; project status belongs to each linked project."
+    },
+    {
+      "name": "Awesome-Hacking-with-AI",
+      "url": "https://github.com/frangelbarrera/Awesome-Hacking-with-AI",
+      "visibility": "public",
+      "primary_category": "curated_lists_and_directories",
+      "secondary_categories": [
+        "ai_security",
+        "security_research"
+      ],
+      "project_type": "curated_guide",
+      "summary": "Curated guide to AI-powered offensive security, red-team operations, prompt injection, and adversarial AI research.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "curated",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Resource curation",
+        "security research references"
+      ],
+      "caveat": "The guide is for lawful, authorized research; inclusion is not an endorsement."
+    },
+    {
+      "name": "Cloud-Misconfig-Scanner",
+      "url": "https://github.com/frangelbarrera/Cloud-Misconfig-Scanner",
+      "visibility": "public",
+      "primary_category": "cloud_and_infrastructure_security",
+      "secondary_categories": [
+        "cloud_security",
+        "cli"
+      ],
+      "project_type": "security_tool",
+      "summary": "Python CLI for detecting AWS S3 storage misconfigurations; Azure Blob and GCP Storage are described as roadmap items.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "AWS S3 scanning",
+        "misconfiguration detection"
+      ],
+      "caveat": "Do not infer Azure or GCP support from the roadmap."
+    },
+    {
+      "name": "code-review-agent-mcp",
+      "url": "https://github.com/frangelbarrera/code-review-agent-mcp",
+      "visibility": "public",
+      "primary_category": "application_and_ai_security",
+      "secondary_categories": [
+        "code_review",
+        "owasp",
+        "mcp"
+      ],
+      "project_type": "mcp_server",
+      "summary": "MCP server for AI-assisted code review, including bug detection and OWASP Top 10 security checks, with configurable harshness.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Code review",
+        "security checks",
+        "MCP integration"
+      ],
+      "caveat": "Review findings require human validation; no claim of complete vulnerability detection is made."
+    },
+    {
+      "name": "DidILeak",
+      "url": "https://github.com/frangelbarrera/DidILeak",
+      "visibility": "public",
+      "primary_category": "application_and_ai_security",
+      "secondary_categories": [
+        "privacy",
+        "secret_scanning"
+      ],
+      "project_type": "security_tool",
+      "summary": "Local-first scanner for detecting leaked API keys, PII, and credentials in selected LLM chat histories, with an HTML dashboard and rotation guidance.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Local scanning",
+        "secret detection",
+        "PII detection",
+        "HTML dashboard"
+      ],
+      "caveat": "Detection coverage depends on supported export formats and patterns."
+    },
+    {
+      "name": "ICS-Cybersecurity-Audit",
+      "url": "https://github.com/frangelbarrera/ICS-Cybersecurity-Audit",
+      "visibility": "public",
+      "primary_category": "ics_ot_and_scada_security",
+      "secondary_categories": [
+        "scada",
+        "compliance",
+        "defensive_security"
+      ],
+      "project_type": "audit_framework",
+      "summary": "Framework for industrial ICS/OT and SCADA cybersecurity audits covering PLC, Modbus, IEC 62443, and NIST 800-82 references.",
+      "technologies": [],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Audit guidance",
+        "ICS/OT references",
+        "control mapping"
+      ],
+      "caveat": "It is not represented as proof of regulatory or functional-safety compliance."
+    },
+    {
+      "name": "industrial-scanner",
+      "url": "https://github.com/frangelbarrera/industrial-scanner",
+      "visibility": "public",
+      "primary_category": "ics_ot_and_scada_security",
+      "secondary_categories": [
+        "network_security",
+        "scada"
+      ],
+      "project_type": "security_tool",
+      "summary": "ICS/OT scanner for passive PCAP analysis and safe read-only Modbus scans, with JSON and HTML reporting.",
+      "technologies": [
+        "HTML"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "PCAP analysis",
+        "Modbus read-only scans",
+        "JSON reports",
+        "HTML dashboards"
+      ],
+      "caveat": "Read-only and safe-use claims should be validated against the current implementation and deployment context."
+    },
+    {
+      "name": "Ling-3-flash-evaluation",
+      "url": "https://github.com/frangelbarrera/Ling-3-flash-evaluation",
+      "visibility": "public",
+      "primary_category": "research_and_evaluations",
+      "secondary_categories": [
+        "llm_evaluation"
+      ],
+      "project_type": "evaluation",
+      "summary": "Independent public evaluation of Ant Group Ling-3.0-flash across 12 documented test phases.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "research",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Multi-phase evaluation",
+        "public benchmark artifacts"
+      ],
+      "caveat": "Evaluation results are specific to the documented methodology and should not be treated as universal model rankings."
+    },
+    {
+      "name": "medical-saas-fullstack-boilerplate",
+      "url": "https://github.com/frangelbarrera/medical-saas-fullstack-boilerplate",
+      "visibility": "public",
+      "primary_category": "software_and_product_prototypes",
+      "secondary_categories": [
+        "healthcare_software",
+        "full_stack"
+      ],
+      "project_type": "boilerplate",
+      "summary": "Full-stack medical SaaS MVP boilerplate with AI scribe, role-based security, and PostgreSQL.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "maturity": "prototype",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "AI scribe prototype",
+        "role-based access",
+        "PostgreSQL"
+      ],
+      "caveat": "A boilerplate is not a validated medical device or compliant healthcare deployment."
+    },
+    {
+      "name": "Network-Scanner",
+      "url": "https://github.com/frangelbarrera/Network-Scanner",
+      "visibility": "public",
+      "primary_category": "network_and_infrastructure_security",
+      "secondary_categories": [
+        "reconnaissance",
+        "network_security"
+      ],
+      "project_type": "security_tool",
+      "summary": "AI-assisted network reconnaissance and security assessment toolkit with nmap, Python, Flask, React, CLI, web UI, API, and PDF reports.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "nmap integration",
+        "CLI",
+        "web UI",
+        "API",
+        "PDF reports"
+      ],
+      "caveat": "Use only on authorized networks; assessment results require analyst review."
+    },
+    {
+      "name": "osint-agent-skills",
+      "url": "https://github.com/frangelbarrera/osint-agent-skills",
+      "visibility": "public",
+      "primary_category": "osint_and_threat_intelligence",
+      "secondary_categories": [
+        "mcp",
+        "knowledge_base",
+        "threat_intelligence"
+      ],
+      "project_type": "knowledge_base_and_mcp",
+      "summary": "OSINT knowledge base and MCP server for autonomous-agent workflows, including recon and threat-intelligence playbooks.",
+      "technologies": [
+        "JavaScript"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "OSINT playbooks",
+        "MCP server",
+        "agent integrations"
+      ],
+      "caveat": "Playbooks are informational tooling and do not guarantee investigative accuracy."
+    },
+    {
+      "name": "OSINT-BIBLE",
+      "url": "https://github.com/frangelbarrera/OSINT-BIBLE",
+      "visibility": "public",
+      "primary_category": "osint_and_threat_intelligence",
+      "secondary_categories": [
+        "ethics",
+        "investigation"
+      ],
+      "project_type": "curated_guide",
+      "summary": "OSINT compilation covering tools, procedures, methodologies, and ethics for lawful investigation and threat intelligence.",
+      "technologies": [],
+      "maturity": "curated",
+      "license": "GPL-3.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "OSINT references",
+        "methodologies",
+        "ethics guidance"
+      ],
+      "caveat": "References may change; users must verify legality, availability, and current behavior."
+    },
+    {
+      "name": "phishing-detection-rnn-cnn",
+      "url": "https://github.com/frangelbarrera/phishing-detection-rnn-cnn",
+      "visibility": "public",
+      "primary_category": "application_and_ai_security",
+      "secondary_categories": [
+        "machine_learning",
+        "phishing_defense"
+      ],
+      "project_type": "research_software",
+      "summary": "Offline phishing-URL classifier with Flask UI and CLI, trained on lexical URL features and accompanied by a reproducible training pipeline and model artifacts.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "research",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Offline inference",
+        "Flask UI",
+        "CLI",
+        "training pipeline"
+      ],
+      "caveat": "Lexical-only classification is not a complete phishing verdict or a substitute for analyst review."
+    },
+    {
+      "name": "secure-agent-orchestrator",
+      "url": "https://github.com/frangelbarrera/secure-agent-orchestrator",
+      "visibility": "public",
+      "primary_category": "ai_agents_and_agent_infrastructure",
+      "secondary_categories": [
+        "security_automation",
+        "fastapi"
+      ],
+      "project_type": "software",
+      "summary": "FastAPI control plane for registering security agents and their command tasks. The repository explicitly describes it as early-stage and not production-hardened.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "early_stage",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Agent registration",
+        "task control plane"
+      ],
+      "caveat": "The repository explicitly says it is not a SOAR and not production-hardened."
+    },
+    {
+      "name": "Spyglass-malware-analysis",
+      "url": "https://github.com/frangelbarrera/Spyglass-malware-analysis",
+      "visibility": "public",
+      "primary_category": "malware_and_binary_analysis",
+      "secondary_categories": [
+        "defensive_security",
+        "reverse_engineering"
+      ],
+      "project_type": "security_tool",
+      "summary": "Malware-analysis and behavioral-monitoring platform with Frida instrumentation, PE static analysis, DNS-spoofing honeypot, and a web dashboard.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "MIT",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Frida instrumentation",
+        "PE analysis",
+        "DNS honeypot",
+        "web dashboard"
+      ],
+      "caveat": "Use in isolated lab environments and validate behavior before handling live samples."
+    },
+    {
+      "name": "StyxLoaderX-Injection-Research",
+      "url": "https://github.com/frangelbarrera/StyxLoaderX-Injection-Research",
+      "visibility": "public",
+      "primary_category": "malware_and_binary_analysis",
+      "secondary_categories": [
+        "windows_security",
+        "defensive_research"
+      ],
+      "project_type": "research_framework",
+      "summary": "Academic Windows x64 process-injection research framework covering direct syscalls, AES-256 obfuscation, and sandbox checks.",
+      "technologies": [
+        "C++"
+      ],
+      "maturity": "research",
+      "license": "GPL-3.0-or-later",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Process-injection research",
+        "Windows x64",
+        "evasion research"
+      ],
+      "caveat": "The repository is explicitly educational research only; use must be authorized and defensive."
+    },
+    {
+      "name": "trash-tests",
+      "url": "https://github.com/frangelbarrera/trash-tests",
+      "visibility": "public",
+      "primary_category": "software_quality_and_developer_tools",
+      "secondary_categories": [
+        "testing",
+        "ci_cd"
+      ],
+      "project_type": "developer_tool",
+      "summary": "Test-effectiveness analyzer for JavaScript and TypeScript that detects no-assertion and trivial-assertion tests and can produce suite scores and PR reviews.",
+      "technologies": [
+        "TypeScript"
+      ],
+      "maturity": "not_assessed",
+      "license": "Apache-2.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Test analysis",
+        "suite scoring",
+        "PR review",
+        "Jest/Vitest/Mocha/Ava support"
+      ],
+      "caveat": "Scores are signals for review, not a complete measure of test quality."
+    },
+    {
+      "name": "WinSecureAuditor",
+      "url": "https://github.com/frangelbarrera/WinSecureAuditor",
+      "visibility": "public",
+      "primary_category": "network_and_infrastructure_security",
+      "secondary_categories": [
+        "windows_security",
+        "compliance"
+      ],
+      "project_type": "security_tool",
+      "summary": "Python CIS Benchmark auditor for Windows 10, Windows 11, and Windows Server with HTML and JSON compliance reports.",
+      "technologies": [
+        "Python"
+      ],
+      "maturity": "not_assessed",
+      "license": "GPL-3.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "CIS checks",
+        "HTML reports",
+        "JSON reports"
+      ],
+      "caveat": "Audit output is not a certification and should be interpreted with the applicable benchmark version."
+    },
+    {
+      "name": "wstg",
+      "url": "https://github.com/frangelbarrera/wstg",
+      "visibility": "public",
+      "primary_category": "open_source_translations_and_documentation",
+      "secondary_categories": [
+        "owasp",
+        "web_security",
+        "documentation"
+      ],
+      "project_type": "translation",
+      "summary": "Community-maintained Spanish translation of the OWASP Web Security Testing Guide.",
+      "technologies": [],
+      "maturity": "translation",
+      "license": "CC-BY-SA-4.0",
+      "source_basis": [
+        "repository_description",
+        "repository_readme",
+        "github_metadata"
+      ],
+      "last_verified": "2026-09-07",
+      "capabilities": [
+        "Spanish technical translation",
+        "WSTG content maintenance"
+      ],
+      "caveat": "This is a fork relationship; it is included because it is the relevant maintained translation project.",
+      "relationship": "fork maintained as a Spanish translation of OWASP WSTG"
+    }
+  ]
+}

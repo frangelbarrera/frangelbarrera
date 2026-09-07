@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/frangelbarrera/frangelbarrera/blob/main/repository-catalog.schema.json",
+  "title": "Frangel Barrera Public Repository Catalog",
+  "type": "object",
+  "required": ["catalog_version", "catalog_name", "owner", "scope", "taxonomy", "entries"],
+  "properties": {
+    "catalog_version": {"type": "string"},
+    "catalog_name": {"type": "string"},
+    "owner": {"const": "frangelbarrera"},
+    "scope": {"type": "object", "required": ["included", "fork_policy", "private_repositories", "claims_policy"], "additionalProperties": {"type": "string"}},
+    "taxonomy": {"type": "object", "minProperties": 1, "additionalProperties": {"type": "string"}},
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "url", "visibility", "primary_category", "project_type", "summary", "technologies", "maturity", "source_basis", "last_verified"],
+        "properties": {
+          "name": {"type": "string", "pattern": "^[A-Za-z0-9._-]+$"},
+          "url": {"type": "string", "format": "uri", "pattern": "^https://github.com/frangelbarrera/"},
+          "visibility": {"const": "public"},
+          "primary_category": {"type": "string"},
+          "secondary_categories": {"type": "array", "items": {"type": "string"}},
+          "project_type": {"type": "string"},
+          "summary": {"type": "string", "minLength": 20},
+          "technologies": {"type": "array", "items": {"type": "string"}},
+          "capabilities": {"type": "array", "items": {"type": "string"}},
+          "maturity": {"enum": ["not_assessed", "early_stage", "research", "curated", "translation", "prototype"]},
+          "license": {"type": ["string", "null"]},
+          "caveat": {"type": "string"},
+          "source_basis": {"type": "array", "minItems": 1, "items": {"enum": ["repository_description", "repository_readme", "github_metadata"]}},
+          "last_verified": {"type": "string", "format": "date"},
+          "relationship": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

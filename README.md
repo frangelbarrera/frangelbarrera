@@ -24,6 +24,16 @@
 - 🛡️ **Maintainer of a community-driven Spanish translation of the [OWASP Web Security Testing Guide (WSTG)](https://github.com/frangelbarrera/wstg )**, focused on technical review, terminology consistency, and content quality.
 - 🧪 **Ling-3-flash-evaluation**. [Ling-3](https://github.com/frangelbarrera/Ling-3-flash-evaluation) — Independent security & capability evaluation of Ant Group's Ling-3.0-flash. First public benchmarks, 845 API calls, 12 test phases.
 
+## Public Repository Catalog
+
+A structured index of my public projects, organized by domain, project type, and conservative maturity labels. The catalog excludes private repositories and temporary pull-request forks; the maintained Spanish OWASP WSTG translation is the only fork included.
+
+- [Browse the machine-readable catalog](./repository-catalog.json)
+- [Read the catalog scope and methodology](./repository-catalog.md)
+- [Review the catalog schema](./repository-catalog.schema.json)
+
+The catalog is based on repository metadata and documentation and does not claim production readiness, regulatory compliance, or complete security coverage unless a project explicitly documents those facts.
+
 ## Languages
 
 - **Spanish:** Native
