@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: frangelbarrera

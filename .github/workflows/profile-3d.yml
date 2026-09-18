@@ -14,7 +14,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: frangelbarrera # Asegúrate de que este sea tu nombre de usuario de GitHub
