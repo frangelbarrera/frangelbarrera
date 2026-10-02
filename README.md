@@ -21,9 +21,7 @@
 - 📚 **Curation contributor** to [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint/pull/1020) (27k★) — listed `OSINT-BIBLE` under Related Awesome Lists.
 - 🛡️ **Documentation contributor** to [kubescape/kubescape](https://github.com/kubescape/kubescape/pull/2475) (11.5k★) — added an ICS/OT workload scanning guide with example manifests and a scoped exception pattern.
 - 🔐 **Documentation contributor** to [cloudflare/circl](https://github.com/cloudflare/circl/pull/668) (1.7k★) — added a "Constant-Time Caveats" section to the README of Cloudflare's post-quantum crypto library.
-- 🛡️ **Maintainer of a community-driven Spanish translation of the [OWASP Web Security Testing Guide (WSTG)](https://github.com/frangelbarrera/wstg )**, focused on technical review, terminology consistency, and content quality.
-- 🧪 **Ling-3-flash-evaluation**. [Ling-3](https://github.com/frangelbarrera/Ling-3-flash-evaluation) — Independent security & capability evaluation of Ant Group's Ling-3.0-flash. First public benchmarks, 845 API calls, 12 test phases.
-
+- 🛡️ **Maintainer of a community-driven Spanish translation of the [OWASP Web Security Testing Guide (WSTG)](https://github.com/frangelbarrera/wstg)**, focused on technical review, terminology consistency, and content quality.
 ## Public Repository Catalog
 
 A structured index of my public projects, organized by domain, project type, and conservative maturity labels. The catalog excludes private repositories and temporary pull-request forks; the maintained Spanish OWASP WSTG translation is the only fork included.
@@ -39,17 +37,6 @@ The catalog is based on repository metadata and documentation and does not claim
 - **Spanish:** Native
 - **English:** B2 (CEFR)
 
-## 🤝 Let\'s Collaborate!
+## 🤝 Let's Collaborate!
 
 I'm always open to collaborating on interesting projects in cybersecurity, threat intelligence, and open source initiatives.
-
-
-
-
-
-
-
-
-
-
-

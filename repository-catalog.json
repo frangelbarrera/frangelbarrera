@@ -340,33 +340,6 @@
       "caveat": "Read-only and safe-use claims should be validated against the current implementation and deployment context."
     },
     {
-      "name": "Ling-3-flash-evaluation",
-      "url": "https://github.com/frangelbarrera/Ling-3-flash-evaluation",
-      "visibility": "public",
-      "primary_category": "research_and_evaluations",
-      "secondary_categories": [
-        "llm_evaluation"
-      ],
-      "project_type": "evaluation",
-      "summary": "Independent public evaluation of Ant Group Ling-3.0-flash across 12 documented test phases.",
-      "technologies": [
-        "Python"
-      ],
-      "maturity": "research",
-      "license": "MIT",
-      "source_basis": [
-        "repository_description",
-        "repository_readme",
-        "github_metadata"
-      ],
-      "last_verified": "2026-09-07",
-      "capabilities": [
-        "Multi-phase evaluation",
-        "public benchmark artifacts"
-      ],
-      "caveat": "Evaluation results are specific to the documented methodology and should not be treated as universal model rankings."
-    },
-    {
       "name": "medical-saas-fullstack-boilerplate",
       "url": "https://github.com/frangelbarrera/medical-saas-fullstack-boilerplate",
       "visibility": "public",
