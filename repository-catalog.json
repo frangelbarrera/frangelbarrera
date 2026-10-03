@@ -1,12 +1,12 @@
 {
-  "catalog_version": "1.0.0",
+  "catalog_version": "1.0.1",
   "catalog_name": "Frangel Barrera — Public Repository Catalog",
   "owner": "frangelbarrera",
   "scope": {
     "included": "Public repositories owned by frangelbarrera, excluding the profile index repository itself.",
-    "fork_policy": "Forks created for pull requests are excluded. The wstg fork is included as the sole explicitly allowed exception because it is the maintained Spanish translation project.",
+    "fork_policy": "Forks created for pull requests and unrelated upstream mirrors are excluded. The wstg fork is included as the sole explicitly allowed exception because it is the maintained Spanish translation project.",
     "private_repositories": "Excluded.",
-    "claims_policy": "Descriptions are limited to repository metadata and README-supported facts. Maturity is not_assessed unless the repository explicitly identifies a research, curated, translation, prototype, or early-stage role."
+    "claims_policy": "Descriptions are limited to repository metadata and README-supported facts. Maturity is not_assessed unless the repository explicitly identifies a research, curated, translation, prototype, or early-stage role. References to standards or frameworks describe ongoing alignment work where documented and do not imply certification or regulatory compliance."
   },
   "taxonomy": {
     "curated_lists_and_directories": "Editorial lists, directories, and guides.",
@@ -43,7 +43,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "OSINT workflows",
         "investigative workspace"
@@ -71,7 +71,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "IoC collection",
         "feed enrichment",
@@ -102,7 +102,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "YAML playbooks",
         "workflow execution",
@@ -131,7 +131,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Editorial categorization",
         "resource discovery"
@@ -158,7 +158,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Repository discovery",
         "editorial curation"
@@ -186,7 +186,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Resource curation",
         "security research references"
@@ -214,7 +214,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "AWS S3 scanning",
         "misconfiguration detection"
@@ -243,7 +243,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Code review",
         "security checks",
@@ -272,7 +272,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Local scanning",
         "secret detection",
@@ -301,7 +301,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Audit guidance",
         "ICS/OT references",
@@ -330,7 +330,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "PCAP analysis",
         "Modbus read-only scans",
@@ -360,7 +360,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "AI scribe prototype",
         "role-based access",
@@ -389,7 +389,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "nmap integration",
         "CLI",
@@ -421,7 +421,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "OSINT playbooks",
         "MCP server",
@@ -448,7 +448,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "OSINT references",
         "methodologies",
@@ -477,7 +477,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Offline inference",
         "Flask UI",
@@ -507,7 +507,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Agent registration",
         "task control plane"
@@ -535,7 +535,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Frida instrumentation",
         "PE analysis",
@@ -565,7 +565,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Process-injection research",
         "Windows x64",
@@ -594,7 +594,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Test analysis",
         "suite scoring",
@@ -624,7 +624,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "CIS checks",
         "HTML reports",
@@ -652,7 +652,7 @@
         "repository_readme",
         "github_metadata"
       ],
-      "last_verified": "2026-09-07",
+      "last_verified": "2026-10-03",
       "capabilities": [
         "Spanish technical translation",
         "WSTG content maintenance"

@@ -1,5 +1,9 @@
 ### I build defensive security systems across threat intelligence, ICS/OT, and applied AI.
 
+## Engineering approach
+
+I am progressively aligning the security, quality, and governance practices across my projects with relevant ISO/IEC and IEC standards, including ISO/IEC 27001, ISO/IEC 25010, IEC 62443, and ISO/IEC 27019 where applicable. These are ongoing implementation and documentation efforts, not claims of certification or regulatory compliance.
+
 ## Education
 
 **Cybersecurity Engineering** *(Ingeniería en Ciberseguridad)* — Universidad de las Ciencias Informáticas (UCI), Havana, Cuba · Graduated July 2025

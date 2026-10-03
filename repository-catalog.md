@@ -4,11 +4,11 @@ This catalog is a structured index of **public repositories owned by [frangelbar
 
 ## Scope
 
-The catalog excludes private repositories and repositories created only as temporary pull-request forks. The `wstg` repository is the sole fork exception because it is the maintained Spanish translation project of the OWASP Web Security Testing Guide. The profile repository itself is excluded from the project catalog because it is the index that presents this information.
+The catalog excludes private repositories, temporary pull-request forks, and unrelated upstream mirrors. The `wstg` repository is the sole fork exception because it is the maintained Spanish translation project of the OWASP Web Security Testing Guide. The profile repository itself is excluded from the project catalog because it is the index that presents this information.
 
 ## Editorial rules
 
-Repository summaries are restricted to information supported by the repository description, README, and GitHub metadata observed on **2026-09-07**. The catalog does not infer production readiness, regulatory compliance, security guarantees, benchmark superiority, or complete detection coverage. When a project makes an important limitation explicit, that limitation is preserved in the `caveat` field.
+Repository summaries are restricted to information supported by the repository description, README, and GitHub metadata observed on **2026-10-03**. The catalog does not infer production readiness, regulatory compliance, security guarantees, benchmark superiority, or complete detection coverage. When a project makes an important limitation explicit, that limitation is preserved in the `caveat` field.
 
 `maturity` is deliberately conservative. `not_assessed` means that the catalog does not make a maturity claim. `research`, `curated`, `translation`, `prototype`, and `early_stage` are used only when the repository’s purpose or documentation supports that characterization.
 
@@ -22,7 +22,7 @@ The controlled vocabulary is defined in the `taxonomy` object of [`repository-ca
 
 ## Verification and maintenance
 
-The catalog is a curated index rather than a live security assessment. Links, capabilities, dependencies, licenses, and external services can change. Entries should be rechecked before being used for procurement, deployment, compliance, incident response, or safety-critical decisions. Update `last_verified` whenever an entry is reviewed, and keep the summary narrower than the repository’s promotional claims.
+The catalog is a curated index rather than a live security assessment. Links, capabilities, dependencies, licenses, and external services can change. Entries should be rechecked before being used for procurement, deployment, compliance, incident response, or safety-critical decisions. Update `last_verified` whenever an entry is reviewed, and keep the summary narrower than the repository’s promotional claims. Some projects are being progressively aligned with relevant ISO/IEC and IEC practices; catalog references do not represent certification or regulatory compliance.
 
 ## Files
 
